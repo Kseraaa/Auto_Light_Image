@@ -8,4 +8,4 @@ pip install transformers
 pip install torch  
 pip install opencv-python  
 
-#
+#batlow.py is the file for Ai traine
